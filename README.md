@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer from India </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sneha-mohanan-877479222/"(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]) target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/sneha-mohanan-877479222/ target="_blank">LinkedIn</a> • 
   <a href="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohanansneha895@gmail.com">Email</a> • 
   <a href="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/snehamohanan123)" target="_blank">GitHub</a>
 </p>
