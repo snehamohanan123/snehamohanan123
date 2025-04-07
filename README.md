@@ -12,12 +12,12 @@
 ### 🚀 Professional Summary
 
 DevOps Engineer with **2 years of experience**, specializing in:
-- 🔹 Linux
-- 🔹 Multi-cloud infrastructure (**AWS**)
-- 🔹 CI/CD pipeline architecture
-- 🔹 Kubernetes orchestration
-- 🔹 Docker containerization
-- 🔹 Infrastructure as Code (**Terraform**) 
+🔹 Linux
+🔹 Multi-cloud infrastructure (**AWS**)
+🔹 CI/CD pipeline architecture
+🔹 Kubernetes orchestration
+🔹 Docker containerization
+🔹 Infrastructure as Code (**Terraform**) 
 
 🟢 *Available for immediate joining*
 
