@@ -5,8 +5,12 @@
   <a href="https://www.linkedin.com/in/sneha-mohanan-877479222/ target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> • 
-  <a href="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohanansneha895@gmail.com">Email</a> • 
-  <a href="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/snehamohanan123)" target="_blank">GitHub</a>
+  <a href="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohanansneha895@gmail.com">
+    <img src="https://img.shields.io/badge/-amithps0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> • 
+  <a href="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/snehamohanan123)" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+  </a>
 </p>
 
 ---
