@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Mohanan</h1>
-<h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate DevOps Engineer from India </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sneha-mohanan-877479222/" target="_blank">LinkedIn</a> • 
